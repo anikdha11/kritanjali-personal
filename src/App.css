@@ -1,5 +1,11 @@
+@import "@aws-amplify/ui-react/styles.css";
 .App {
   text-align: center;
+  background-image: url("/src/image/pexels-alex-andrews-3805983.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  object-fit: cover;
+  padding-bottom: 3.7rem;
 }
 
 .App-logo {
